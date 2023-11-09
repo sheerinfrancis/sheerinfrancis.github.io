@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
+
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #444; /* Default text color */
+    margin: 0 auto;
+    max-width: 48rem;
+    padding: .25rem;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    border-bottom: 2px solid #fafafa;
+    margin-bottom: 1.15rem;
+    padding-bottom: .5rem;
+    color: #3498db; /* Blue color for headings */
+}
+
+blockquote {
+    border-left: 4px solid #3498db;
+    color: #333;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+blockquote p {
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #3498db; /* Match the border color for emphasis */
+}
+
+pre, code {
+    background-color: #fafafa;
+    font-family: Menlo, Monaco, "Courier New", monospace;
+    padding: .5rem;
+    line-height: 1.25;
+    overflow-x: scroll;
+}
+
+a, a:visited {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover, a:focus, a:active {
+    color: #2980b9;
+}
+
+/* Gradient background with shades of blue */
+.gradient-bg {
+    background: linear-gradient(to right, #3498db, #2980b9);
+    color: #fff; /* Text color for the gradient background */
+    padding: 20px;
+}
+
+/* Responsive font sizes */
+html {
+    font-size: 18px;
+    max-width: 100%;
+}
+
+@media screen and (min-width: 32rem) and (max-width: 48rem) {
+    html {
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 48rem) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* Other styles */
+body {
+    line-height: 1.85;
+}
+
+p {
+    font-size: 1rem;
+    margin-bottom: 1.3rem;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 3.998rem;
+}
+
+h2 {
+    font-size: 2.827rem;
+}
+
+h3 {
+    font-size: 1.999rem;
+}
+
+h4 {
+    font-size: 1.414rem;
+}
+
+h5 {
+    font-size: 1.121rem;
+}
+
+h6 {
+    font-size: .88rem;
+}
+
+small {
+    font-size: .707em;
+}
+
+/* Fluid images and videos */
+img, canvas, iframe, video, svg, select, textarea {
+    max-width: 100%;
+}
+
+section {
+    background: linear-gradient(to right, #3498db, #2980b9);
+    color: #fff; /* Text color for the gradient background */
+    padding: 40px; /* Adjust the padding as needed */
+    margin-bottom: 20px; /* Adjust the margin as needed */
+}

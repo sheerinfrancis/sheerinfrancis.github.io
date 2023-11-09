@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node main.js && serve",
+    "build": "node main.js"
+  },
+  "devDependencies": {
+    "markdown-it": "^13.0.1",
+    "serve": "^14.2.1"
+  }
+}
