@@ -54,17 +54,17 @@ After conducting user research, several key insights have emerged that shed ligh
 
 I leveraged the insights from user research to sketch and design the 'Plan' page of the Enguru app. This creative process allowed me to explore design concepts organically and ensure a user-friendly and engaging experience. The 'Plan' page, as the gateway to premium features, benefits from clear layouts and informative content, all guided by the user-centric design principles.
 
-![Untitled](Enhancing Enguru's Plan Page A UX UI Case Study” 4874b01372bf4894ab169fee18d90347/Untitled.png)
+![Untitled](Untitled.png)
 
-![Untitled](Enhancing Enguru's Plan Page A UX UI Case Study” 4874b01372bf4894ab169fee18d90347/Untitled 1.png)
+![Untitled](Untitled 1.png)
 
 1. When users open the home page and navigate to the 'Upgrade' option, instead of displaying a 'Request for a Call Back' page, it would be more user-centric to present the 'Upgrade' option directly. If a call is required, users should have the ability to initiate the call themselves. Users generally prefer to have control over the app, enabling them to make choices without being guided by the app. For the 'Call Us' or 'Contact Us' option, these provide clear and direct ways for users to get in touch with our support or sales team, bypassing the need for the lengthier 'Request for a Call Back' wording.
 
-![Untitled](Enhancing Enguru's Plan Page A UX UI Case Study” 4874b01372bf4894ab169fee18d90347/Untitled 2.png)
+![Untitled](Untitled 2.png)
 
 1. From my perspective, shifting the messaging from 'Let's find a course for you' to '**Unlock the learning journey'** not only sounds more appealing but also better conveys the exciting potential for users. Additionally, **it's crucial to highlight the value users can access by subscribing to our plans.** This includes round-the-clock personalised learning with our AI tutor, daily practice lessons, engaging live classes, and top-tier guidance from our dedicated team of Enguru experts.”
 
-![Untitled](Enhancing Enguru's Plan Page A UX UI Case Study” 4874b01372bf4894ab169fee18d90347/Untitled 3.png)
+![Untitled](Untitled 3.png)
 
 From my perspective, the current layout of this page raises concerns. It prominently features a 'Request for a Call Back' button as the primary option, while 'Buy' is relegated to a secondary role, which appears to be an inappropriate hierarchy.
 
@@ -76,7 +76,7 @@ In addition to this, there are a few other notable issues:
 4. The need for a clearer and more compelling call-to-action to encourage subscriptions.
 5. The potential to offer self-service subscription options for users who prefer independence in their choices.
 
-![Untitled](Enhancing Enguru's Plan Page A UX UI Case Study” 4874b01372bf4894ab169fee18d90347/Untitled 4.png)
+![Untitled](Untitled 4.png)
 
 Starting with this page, there are several key improvements needed. First, the pricing information is not prominently highlighted, and it lacks proper alignment with the '12-Month Premium' option. Users are more likely to expect various subscription options, so presenting a selection of choices is crucial.
 
